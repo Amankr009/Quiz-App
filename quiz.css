@@ -1,0 +1,173 @@
+#body{
+    height: 600px;
+    width: 1024px;
+    border-style: solid;
+    border-color: black;
+    display: flex;
+    flex-direction: row;
+}
+#left{
+    height: 596px;
+    width: 510px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+}
+#leftbtn{
+    height: 50px;
+    width: 150px;
+    background-color: cornflowerblue;
+    color: white;
+    font-weight: bolder;
+    margin: 300px 0 0 180px;
+    cursor: pointer;
+}
+.lqu{
+    height: 50px;
+    width: 300px;
+    background-color: cornflowerblue;
+    color: white;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 5px 0 0 5px;
+    margin: 100px 0 0 100px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
+.loptn{
+    height: 50px;
+    width: 310px;
+    background-color: cornflowerblue;
+    color: white;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 5px 0 0 5px;
+    margin: 5px 0 0 100px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    cursor: pointer;
+}
+.lbtn{
+    height: 50px;
+    width: 150px;
+    background-color: cornflowerblue;
+    color: white;
+    font-weight: bolder;
+    margin: 50px 0 0 350px;
+    cursor: pointer;
+}
+.lanswered{
+    height: 50px;
+    width: 310px;
+    background-color: white;
+    color:cornflowerblue;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 5px 0 0 5px;
+    margin: 5px 0 0 100px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    cursor: pointer;
+}
+.lscore{
+    height: 50px;
+    width: 300px;
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    padding: 5px 0 0 5px;
+    margin: 300px 0 0 90px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+#right{
+    height: 596px;
+    width: 510px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: cornflowerblue;
+}
+#rightbtn{
+    height: 50px;
+    width: 150px;
+    background-color: white;
+    color:cornflowerblue;
+    font-weight: bolder;
+    margin: 300px 0 0 180px;
+    cursor: pointer;
+}
+.rqu{
+    height: 50px;
+    width: 300px;
+    background-color: white;
+    color:cornflowerblue;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 5px 0 0 5px;
+    margin: 100px 0 0 100px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
+.roptn{
+    height: 50px;
+    width: 310px;
+    background-color: white;
+    color:cornflowerblue;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 5px 0 0 5px;
+    margin: 5px 0 0 100px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    cursor: pointer;
+}
+.rbtn{
+    height: 50px;
+    width: 150px;
+    background-color: white;
+    color:cornflowerblue;
+    font-weight: bolder;
+    margin: 50px 0 0 350px;
+    cursor: pointer;
+}
+.rscore{
+    height: 50px;
+    width: 300px;
+    background-color: white;
+    color:cornflowerblue;
+    text-align: center;
+    padding: 5px 0 0 5px;
+    margin: 300px 0 0 90px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+.ranswered{
+    height: 50px;
+    width: 310px;
+    background-color:cornflowerblue;
+    color:white;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 5px 0 0 5px;
+    margin: 5px 0 0 100px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    cursor: pointer;
+}
