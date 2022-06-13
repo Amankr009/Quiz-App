@@ -6,7 +6,7 @@ Each quiz section will show a "Start Quiz" button on clicking that button, the q
 User should be able to select options and click "Next" button for another question.
 Once all questions are attempted, the final score will be visible.
 
-Design using HTML, CSS, JavaScript
+Developed with the help of HTML, CSS, JavaScript
 
 ![home](https://user-images.githubusercontent.com/40364495/173147910-ec2ff30b-2b9c-4a4f-844b-cd608aa8be41.PNG)
 ![question](https://user-images.githubusercontent.com/40364495/173148684-53232e48-cfc7-4dfa-92a2-5f992e04a511.PNG)
